@@ -1,0 +1,5 @@
+# all swp files
+.*.swp
+
+# war file
+*.war
