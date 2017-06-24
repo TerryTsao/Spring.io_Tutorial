@@ -6,3 +6,6 @@
 
 # lib jar files
 *.jar
+
+# class files
+*.class
