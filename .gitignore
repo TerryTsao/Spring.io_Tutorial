@@ -1,5 +1,8 @@
 # all swp files
 .*.swp
 
-# war file
+# war files
 *.war
+
+# lib jar files
+*.jar
